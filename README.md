@@ -9,8 +9,3 @@
 **HTML** *(Hypertext Markup Language)* /
 **CSS** *(Cascading Style Sheets)*
 
-```
-
-IN PROGRES ...
-
-```
