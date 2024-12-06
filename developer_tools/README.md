@@ -1,4 +1,4 @@
-![project presentation](assets/htmlcssadvanced.png)
+![project presentation](assets/devtools.jpeg)
 
 In this project, you will analyze this website https://dev-tools.hbtn.info/.
 
