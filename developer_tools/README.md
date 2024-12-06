@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 ![project presentation](assets/devtools.jpeg)
-=======
-![project presentation](assets/)
->>>>>>> 5c3164e54f98a38f842462ee9e41c827130970dc
+
 
 In this project, you will analyze this website https://dev-tools.hbtn.info/.
 
